@@ -26,7 +26,7 @@
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/udemy-to-anki.git
+git clone https://github.com/menego23/udemy-to-anki.git
 cd udemy-to-anki
 ```
 
